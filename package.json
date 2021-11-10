@@ -13,7 +13,7 @@
     "prepublish": "yarn build"
   },
   "dependencies": {
-    "@vue-storefront/woocommerce-api": "~2.3.0",
+    "@vue-storefront/woocommerce-api": "git+https://github.com/cmdrootaccess/storefront-woocommerce-api.git",
     "@vue-storefront/core": "~2.3.0"
   },
   "peerDependencies": {
